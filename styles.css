@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+#header {
+    background-color: #009688;
+    color: #fff;
+    text-align: center;
+}
+
+#main-content {
+    color: brown;
+}
+
+.section {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #ddd;
+}
+
+h2 {
+    color: #009688;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#teams {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: #ffe600;
+}
+
+
+
+.aside {
+    background-color: rgba(0, 150, 136, 0.2);
+}
+
+h3 {
+    color: hsl(171, 100%, 41%);
+}
+
+ul {
+    list-style-type: none;
+}
+
+#footer {
+    background-color: #009688;
+    color: #fff;
+    text-align: center;
+    
+}
